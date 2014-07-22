@@ -12,7 +12,7 @@ public class WhenYouCreateACell {
     @Test
     public void aLiveCellShouldBeRepresentedByAnAsterisk() {
         Cell cell = Cell.fromSymbol("*");
-        System.out.println("as");
+        System.out.println("as  ");
         assertThat(cell, is(LIVE_CELL));
     }
 
