@@ -25,7 +25,7 @@
         <developerConnection>scm:git:git@github.com:${github.account}/game-of-life.git</developerConnection>
         <url>scm:git:git@github.com:${github.account}/game-of-life.git</url>
     </scm>
-    <build>    
+    <build>           
         <plugins>           
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>  
