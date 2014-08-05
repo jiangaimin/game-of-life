@@ -7,6 +7,11 @@ import static org.hamcrest.Matchers.is;
 
 import org.junit.Test;
 
+/**
+ * 只为了生活
+ * @author dylan0514
+ * @version $Id: WhenYouCreateACell.java, v 0.1 2014年8月5日 上午9:50:04 dylan0514 Exp $
+ */
 public class WhenYouCreateACell {
 
     @Test
