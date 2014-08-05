@@ -33,6 +33,7 @@
                 <configuration>
                     <source>1.6</source>
                     <target>1.6</target>
+					<encoding>gbk</encoding>
                 </configuration>
             </plugin>
             <plugin>
@@ -252,6 +253,7 @@
                             <!--<ignoreIdentifiers>true</ignoreIdentifiers>-->
                             <failOnViolation>true</failOnViolation>
                             <failurePriority>2</failurePriority>
+
                         </configuration>
                     </plugin>
 
